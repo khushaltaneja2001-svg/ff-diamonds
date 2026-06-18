@@ -1,0 +1,6 @@
+node_modules/
+.env
+db/ffdiamonds.db
+db/ffdiamonds.db-journal
+db/ffdiamonds.db-wal
+db/ffdiamonds.db-shm
